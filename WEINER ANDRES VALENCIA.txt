@@ -11,4 +11,5 @@ SOY DESARROLLADOR, INTERESADO EN APRENDER ANÁLISIS DE DATOS Y ME GUSTA VER SITI
 ## 🛠️ Tecnologías de interés
 - Python
 - JavaScript, FASTCMP 
+
 - ...
