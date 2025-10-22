@@ -1,0 +1,14 @@
+# WEINER ANDRES VALENCIA - Curso Backend FUMC
+
+## 👨‍💻 Sobre mí
+SOY DESARROLLADOR, INTERESADO EN APRENDER ANÁLISIS DE DATOS Y ME GUSTA VER SITIOS NMATURALES
+
+## 🎯 Objetivos del curso
+- [ ] Aprender FastAPI/Node.js
+- [ ] Crear mi primera API
+- [ ] ...
+
+## 🛠️ Tecnologías de interés
+- Python
+- JavaScript
+- ...
